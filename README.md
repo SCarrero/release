@@ -1,2 +1,2 @@
 # release
-Sample template for Intrado
+Vendor Template for News Release
